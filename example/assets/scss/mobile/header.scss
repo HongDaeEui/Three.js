@@ -1,0 +1,19 @@
+.header {
+  border-bottom: 1px solid #DCDCDC;
+  text-align: center;
+  font-size: 14px;
+  padding: 10px 0;
+
+  .menu {
+    margin-top: 10px;
+    a {
+      border: 1px solid #DCDCDC;
+      width: 100px;
+      padding: 10px;
+      display: inline-block;
+      cursor: pointer;
+      text-decoration: none;
+      color: #000000;
+    }
+  }
+}
